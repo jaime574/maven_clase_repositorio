@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c58dc57-00c1-4506-a910-7a12e8022e53" name="Default Changelist" comment="" />
+    <list default="true" id="3c58dc57-00c1-4506-a910-7a12e8022e53" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Suma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Suma.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YwBR5kUX916oEZOeicFGblIQz8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583843765646</updated>
-      <workItem from="1583843771159" duration="165000" />
+      <workItem from="1583843771159" duration="782000" />
     </task>
     <servers />
   </component>
